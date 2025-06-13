@@ -42,6 +42,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<!-- Тёмная тема с градиентом -->
+![Dikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaAbramychev&show_icons=true&theme=radical)
+
+<!-- Альтернатива (например, solarized-dark) -->
+<!-- https://github-readme-stats.vercel.app/api?username=IlyaAbramychev&show_icons=true&theme=solarized-dark -->
+
+---
 ## 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Ilya-blue?style=flat&logo=telegram)](https://t.me/dikey)  
