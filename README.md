@@ -44,9 +44,9 @@
 
 ## 🌐 Socials
 
-[![Telegram](https://img.shields.io/badge/Telegram-@dikey-blue?style=flat&logo=telegram)](https://t.me/dikey)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dikey-black?style=flat&logo=linkedin)](https://linkedin.com/in/ilya-abramychev-09a735360/)  
-[![GitHub](https://img.shields.io/github/followers/Dikey123?label=Follow&style=social)](https://github.com/IlyaAbramychev)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ilya-blue?style=flat&logo=telegram)](https://t.me/dikey)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya-black?style=flat&logo=linkedin)](https://linkedin.com/in/ilya-abramychev-09a735360/)  
+[![GitHub](https://img.shields.io/github/followers/Ilya?label=Follow&style=social)](https://github.com/IlyaAbramychev)
 
 ---
 
