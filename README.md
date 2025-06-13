@@ -4,8 +4,8 @@
 - 🎓 I’m a graduate of the MSc program in **Data Science**
 - 🌍 Based in the Netherlands  
 - 🧪 Working on computer vision systems for **quality control of PCB boards**
-- 💼 Portfolio: [github.com/Dikey123](https://github.com/Dikey123)
-- 📬 Email me at: dikey@example.com  
+- 💼 Portfolio: [github.com/IlyaAbramychev](https://github.com/IlyaAbramychev)
+- 📬 Email me at: abramychev45@gmail.com 
 - 🤖 Building custom detection models (YOLO, Faster R-CNN, multi-head)  
 - ⚙️ Interested in generative AI, multi-modal models, and robot control  
 - 🤝 Open to research collaborations and production-level ML systems  
@@ -45,8 +45,8 @@
 ## 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-@dikey-blue?style=flat&logo=telegram)](https://t.me/dikey)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dikey-black?style=flat&logo=linkedin)](https://linkedin.com/in/dikey)  
-[![GitHub](https://img.shields.io/github/followers/Dikey123?label=Follow&style=social)](https://github.com/Dikey123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dikey-black?style=flat&logo=linkedin)](https://linkedin.com/in/ilya-abramychev-09a735360/)  
+[![GitHub](https://img.shields.io/github/followers/Dikey123?label=Follow&style=social)](https://github.com/IlyaAbramychev)
 
 ---
 
